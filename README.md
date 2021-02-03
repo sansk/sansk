@@ -2,6 +2,10 @@
 
 ### I am Sangy K aka Sangeetha Kumarasamy :zap:
 
+I am a Javascript Developer from India :india: 
+
+
+
 <!--
 **sansk/sansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
