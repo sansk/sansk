@@ -1,7 +1,5 @@
 ### Hello, World! 👋
-
 ### I am Sangy K aka Sangeetha Kumarasamy :zap:
-
 I am a Javascript Developer from India :india: 
 
 
