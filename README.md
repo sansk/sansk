@@ -42,11 +42,48 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
     <a title="ReactJS" href="https://reactjs.org/" target="_blank">
         <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="50" height="50" />
     </a>
+    <a title="JSON" href="https://www.json.org/json-en.html" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/json.svg" alt="ReactJS" width="50" height="50" />
+    </a>
 </p>
 
 ### I am Comfortable with
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="50" alt="Bootstrap" /><img src="https://cdn.svgporn.com/logos/redux.svg" width="50" alt="Redux" /><img src="https://cdn.svgporn.com/logos/mongodb.svg" width="150" alt="MongoDB" /><img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50" alt="MySQL" /><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="50" alt="NodeJS" /><img src="https://cdn.svgporn.com/logos/graphql.svg" width="50" alt="GraphQL" /><img src="https://cdn.svgporn.com/logos/vercel.svg" width="150" alt="Vercel" /><img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="50" alt="Heroku" /><img src="https://cdn.svgporn.com/logos/figma.svg" width="50" alt="Figma" />
-
+<p align="left">
+    <a title="Bootstrap" href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="50" height="50" />
+    </a>
+    <a title="Redux" href="https://postman.com" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/redux.svg" width="50" height="50" alt="Redux" />
+    </a>
+    <a title="NodeJS" href="https://postman.com" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="50" height="50" alt="NodeJS" />
+    </a>
+    <a title="GraphQL" href="https://graphql.org" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="50" height="50" />
+    </a>    
+    <a title="MySQL" href="https://dev.mysql.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="mysql" width="50" height="50" />
+    </a>
+    <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="150" height="50" />
+    </a>
+    <a title="GIT" href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="github" width="50" height="50" />
+    </a>
+    <a title="Postman" href="https://postman.com" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman" width="50" height="50" />
+    </a>
+    <a title="Vercel" href="https://vercel.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/vercel-icon.svg" width="50" height="50" alt="Vercel" />
+    </a>
+    <a title="Heroku" href="https://www.heroku.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="50" height="50" alt="Heroku" />
+    </a>
+    <a title="Figma" href="https://www.figma.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/figma.svg" width="50" height="50" alt="Figma" />
+    </a>
+</p>
+and a lot more related tools & packages...
 
 <!--
 **sansk/sansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
