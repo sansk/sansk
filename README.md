@@ -17,14 +17,6 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
 ### Future Goals 🎯
 - 🖥 **NextJS** is the next destination.
 
-### My Abode - Let's Connect 🤝
-[![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/skay)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sansk)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4967564/skay)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iamsangyk)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
-
 ### I am Obsessed with
 <p align="left">
     <a title="HTML5" href="https://html.spec.whatwg.org/multipage/" target="_blank">
@@ -84,6 +76,15 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
     </a>
 </p>
 and a lot more related tools & packages...
+
+
+### My Abode - Let's Connect 🤝
+[![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/skay)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sansk)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4967564/skay)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iamsangyk)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
 
 <!--
 **sansk/sansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
