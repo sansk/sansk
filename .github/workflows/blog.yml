@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *' # Runs Every 5 Minutes
+    - cron: '0 */6 * * *' # Runs Every 6 Hours
 
 
 jobs:
