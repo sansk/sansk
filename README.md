@@ -26,7 +26,23 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
 
 ### I am Obsessed with
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="50" /><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width="50" /><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" width="50" /><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="50" /><img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="50" />
+<p align="left">
+    <a title="HTML5" href="https://html.spec.whatwg.org/multipage/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="50" height="50" />
+    </a>
+    <a title="CSS3" href="https://www.w3.org/TR/CSS/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width="50" height="50" />
+    </a>
+    <a title="TailwindCSS" href="https://tailwindcss.com/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50" />
+    </a>
+    <a title="JavaScript" href="" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="50" height="50" />
+    </a>
+    <a title="ReactJS" href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="50" height="50" />
+    </a>
+</p>
 
 ### I am Comfortable with
 <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="50" alt="Bootstrap" /><img src="https://cdn.svgporn.com/logos/redux.svg" width="50" alt="Redux" /><img src="https://cdn.svgporn.com/logos/mongodb.svg" width="150" alt="MongoDB" /><img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50" alt="MySQL" /><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="50" alt="NodeJS" /><img src="https://cdn.svgporn.com/logos/graphql.svg" width="50" alt="GraphQL" /><img src="https://cdn.svgporn.com/logos/vercel.svg" width="150" alt="Vercel" /><img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="50" alt="Heroku" /><img src="https://cdn.svgporn.com/logos/figma.svg" width="50" alt="Figma" />
