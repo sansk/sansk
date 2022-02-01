@@ -9,6 +9,7 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
 - 💬 Ask me about Javascript
 - 🔭 I’m currently **exploring Twitter APIs**
 - 👯 I’m looking to collaborate on **projects involving Twitter APIs**
+***
 
 ### Currently on my plate - apart from Work 🤨
 - 🤿 Diving deep into **React**
@@ -16,7 +17,7 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
 
 ### Future Goals 🎯
 - 🖥 **NextJS** is the next destination.
-
+***
 ### I am Obsessed with
 <p align="left">
     <a title="HTML5" href="https://html.spec.whatwg.org/multipage/" target="_blank">
@@ -77,6 +78,7 @@ I am Full-Stack Developer but my Job title says, Solution Architect.
 </p>
 and a lot more related tools & packages...
 
+***
 
 ### My Abode - Let's Connect 🤝
 [![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
