@@ -22,5 +22,6 @@ jobs:
           STYLE: "blog-left"
           FILE: "53a45644150ff39cc6231c97fa0b3d3b" # GIST ID
           TYPE: "gist"
+          BLOG_URL: "https://theintrovertcoder.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
