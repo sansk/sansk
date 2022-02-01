@@ -81,7 +81,11 @@ More about me @ [My Story Page](https://theintrovertcoder.hashnode.dev/about)
 and a lot more related tools & packages...
 
 ***
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
+***
 ### My Abode - Let's Connect 🤝
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://theintrovertcoder.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
