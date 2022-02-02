@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://theintrovertcoder.hashnode.dev/rss.xml"
           max_post_count: 3
           commit_message: "Updated README with the latest blog posts"
-          template: '$newline - [$title]($url) | $date $newline > $description'
           date_format: "mmm d, yyyy"
+          template: '$newline - [$title]($url) | $date $newline > $description'
