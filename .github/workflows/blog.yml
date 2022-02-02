@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/2 * * * *' # Runs Every 1 Hours
+    - cron: '0 * * * *' # Runs Every 1 Hours
 
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "Devorein/action-hashnode-blog@main"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: '@sangyk' 
           COUNT: 3 
