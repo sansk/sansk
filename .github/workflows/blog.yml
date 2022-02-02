@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "Devorein/action-hashnode-blog@main"
         with:
           USERNAME: '@sangyk' 
           COUNT: 3 
