@@ -18,4 +18,4 @@ jobs:
           max_post_count: 3
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
-          template: '$newline - [$title]($url) | $date $newline > $description'
+          template: '$newline - [$title]($url) | $date'
