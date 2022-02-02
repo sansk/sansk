@@ -99,6 +99,7 @@ and a lot more related tools & packages...
 ### My Github Stats 📈 I Know I need to Improve here 🎯
 [![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk&hide=stars&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+   *Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this wonderfull Github Readme Stats Project.*
 ***
 
 <!--
