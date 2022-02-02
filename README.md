@@ -1,6 +1,6 @@
 ## <Hello, World! 👋 />
 ### I am Sangy K 
-I am Full-Stack Developer but my Job title says, Solution Architect.
+I am Full-Stack Developer but my Job title says, Solution Engineer.
 
 ### Weird & Fun Facts About ME 😉
 - 👩‍💻 An **Introverted Person**
