@@ -19,4 +19,4 @@ jobs:
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
           custom_tags: "postImage/cover_image/"
-          template: "$postImage"
+          template: "$newline - [$postImage]($url)"
