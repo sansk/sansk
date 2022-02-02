@@ -82,12 +82,12 @@ and a lot more related tools & packages...
 
 ***
 ### My Latest Blog Posts 👇
-<!-- BLOG-POST-LIST:START --><table style="border:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td>
-<td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a>br/>Dec 21, 2021</td></tr></table>
-<table style="border:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.png"></a></td>
-<td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript">Build a Pomodoro Timer using HTML, CSS and Javascript</a>br/>Dec 11, 2021</td></tr></table>
-<table style="border:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626434631673/TrNYekPEY.png"></a></td>
-<td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax">Weird Behaviour in JS Explained: Math.min&lpar;&rpar; &gt; Math.max&lpar;&rpar;</a>br/>Jul 16, 2021</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table style="border-style:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td>
+<td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a><br/>Dec 21, 2021</td></tr></table>
+<table style="border-style:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.png"></a></td>
+<td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript">Build a Pomodoro Timer using HTML, CSS and Javascript</a><br/>Dec 11, 2021</td></tr></table>
+<table style="border-style:none;"><tr><td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626434631673/TrNYekPEY.png"></a></td>
+<td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax">Weird Behaviour in JS Explained: Math.min&lpar;&rpar; &gt; Math.max&lpar;&rpar;</a><br/>Jul 16, 2021</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
