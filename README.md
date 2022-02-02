@@ -95,6 +95,11 @@ and a lot more related tools & packages...
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iamsangyk)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
 
+***
+### My Github Stats 📈
+[![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk)](https://github.com/anuraghazra/github-readme-stats)
+
+***
 
 <!--
 **sansk/sansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
