@@ -97,7 +97,7 @@ and a lot more related tools & packages...
 
 ***
 ### My Github Stats 📈
-[![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk)](https://github.com/anuraghazra/github-readme-stats)
+[![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
