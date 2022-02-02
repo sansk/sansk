@@ -82,10 +82,7 @@ and a lot more related tools & packages...
 
 ***
 ### My Latest Blog Posts 👇
-<!-- BLOG-POST-LIST:START -->
- - [CSS Units Explained: EM Vs REM](https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem) | Dec 21, 2021
- - [Build a Pomodoro Timer using HTML, CSS and Javascript](https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript) | Dec 11, 2021
- - [Weird Behaviour in JS Explained: Math.min&lpar;&rpar; &gt; Math.max&lpar;&rpar;](https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax) | Jul 16, 2021<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.pnghttps://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.pnghttps://cdn.hashnode.com/res/hashnode/image/upload/v1626434631673/TrNYekPEY.png<!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
