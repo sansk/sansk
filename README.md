@@ -105,6 +105,10 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 
 ***
 <!-- daily.dev BOOKMARKS:START -->
+- [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [7 Killer One-Liners in JavaScript](https://app.daily.dev/posts/dxK5WRath?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [40 Amazing Developers You Should Follow On Youtube](https://app.daily.dev/posts/ESnp9tAL5?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Projects You Can Build With Vanilla JavaScript.](https://app.daily.dev/posts/szBBcvBp2?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
