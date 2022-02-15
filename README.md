@@ -104,8 +104,8 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
 
 ***
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 ***
 
 ### My Github Stats 📈 I Know I need to Improve here 🎯
