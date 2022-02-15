@@ -106,6 +106,7 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 ***
 ### Interesting Articles from my daily.dev Feed
 <!-- daily.dev BOOKMARKS:START -->
+- [This time, thoroughly understand the JavaScript execution mechanism](https://app.daily.dev/posts/Axq33XvLW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [7 Killer One-Liners in JavaScript](https://app.daily.dev/posts/dxK5WRath?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [40 Amazing Developers You Should Follow On Youtube](https://app.daily.dev/posts/ESnp9tAL5?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
