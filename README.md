@@ -1,10 +1,14 @@
+<!-- markdownlint-disable-next-line -->
 ![Header](./Images/Sangy.gif)
-## <Hello, World! 👋 />
 
-### I am Sangy K 
+# <Hello, World! 👋 />
+
+## I am Sangy K
+
 I am Full-Stack Developer but my Job title says, Solution Engineer.
 
-### Weird & Fun Facts About ME 😉
+## Weird & Fun Facts About ME 😉
+
 - 👩‍💻 An **Introverted Person**
 - ✍ Create Content on topics I love
 - 💛 The most IMPORTANT fact, **I'm in 💖 with Javascript**
@@ -16,13 +20,16 @@ More about me @ [My Story Page](https://theintrovertcoder.hashnode.dev/about)
 ***
 
 ### Currently on my plate - apart from Work 🤨
+
 - 🤿 Diving deep into **React**
 - 🗒 Start interacting more and connect with more people
 
 ### Future Goals 🎯
+
 - 🖥 **NextJS** is the next destination.
 ***
 ### I am Obsessed with
+
 <p align="left">
     <a title="HTML5" href="https://html.spec.whatwg.org/multipage/" target="_blank">
         <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="50" height="50" />
@@ -45,6 +52,7 @@ More about me @ [My Story Page](https://theintrovertcoder.hashnode.dev/about)
 </p>
 
 ### I am Comfortable with
+
 <p align="left">
     <a title="Bootstrap" href="https://www.mysql.com/" target="_blank">
         <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="50" height="50" />
@@ -84,6 +92,7 @@ and a lot more related tools & packages...
 
 ***
 ### My Latest Blog Posts 👇
+
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a> | Dec 21, 2021 <br> In CSS, the numeric value &lt;length&gt; represents the size of the elements. 💻💻
 This CSS data typ... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript">Build a Pomodoro Timer using HTML, CSS and Javascript</a> | Dec 11, 2021 <br> In this tutorial, we are coding a Pomodoro timer. ⏲
@@ -95,6 +104,7 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 
 ***
 ### My Abode - Let's Connect 🤝
+
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://theintrovertcoder.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/skay)
@@ -105,6 +115,7 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 
 ***
 ### Interesting Articles from my daily.dev Feed
+
 <!-- daily.dev BOOKMARKS:START -->
 - [Want to learn about git and GitHub in a more fun way?](https://app.daily.dev/posts/vjrLhMZ4l?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [How to build a REST API using NodeJS](https://app.daily.dev/posts/dDmpqH5LO?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
@@ -114,10 +125,10 @@ I Came across Advent Of CSS and Advent of JS cha... </td></tr></table>
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
-### My Github Stats 📈 I Know I need to Improve here 🎯
+### My GitHub Stats 📈 I Know I need to Improve here 🎯
 [![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk&hide=stars&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-   *Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this wonderfull Github-Readme-Stats Project.*
+   *Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this wonderful GitHub-Readme-Stats Project.*
 ***
 
 <!--
