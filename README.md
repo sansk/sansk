@@ -117,11 +117,11 @@ I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Web Scraping via Javascript Runtime Heap Snapshots](https://app.daily.dev/posts/T3NqzSCFE?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Introduction of Jenkins pipeline](https://app.daily.dev/posts/V7M8F3cc8?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Deploy code automatically to AWS Lambda using GitHub Actions with AWS CLI commands](https://app.daily.dev/posts/I9MH5cVhD?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [JavaScript Knowledge Map - Interactive Knowledge Map for JavaScript](https://app.daily.dev/posts/Ptmw5rzqS?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Want to learn about git and GitHub in a more fun way?](https://app.daily.dev/posts/vjrLhMZ4l?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [How to build a REST API using NodeJS](https://app.daily.dev/posts/dDmpqH5LO?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
