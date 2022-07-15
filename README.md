@@ -117,11 +117,11 @@ I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Bun is a fast all-in-one JavaScript runtime](https://app.daily.dev/posts/hca8XWb6F?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [28 Days of GitHub: Automating and Improving Your Workflow](https://app.daily.dev/posts/4glpLq2VC?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [How to Build a TodoApp using ReactJS and Firebase](https://app.daily.dev/posts/915bc69d834ddccaf8b91bd2f0ac4768?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Create a Twitter bot that updates the profile banner with the latest followers](https://app.daily.dev/posts/LHX35N7Mt?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [CSS Day 2022](https://app.daily.dev/posts/7OglDqF6P?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Creating A Twitter Bot with Node.js](https://app.daily.dev/posts/-mw5-Ejmb?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
