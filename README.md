@@ -121,7 +121,7 @@ I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
 - [How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify](https://app.daily.dev/posts/sNKzJcy5X?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Javascript: Overcoming tutorial hell, my story](https://app.daily.dev/posts/KR02pT2HB?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Get paid to write technical articles](https://app.daily.dev/posts/bk-gEhcUL?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [7 Tips for Clean React TypeScript Code you Must Know 🧹✨](https://app.daily.dev/posts/UhLxVOj2i?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [7 Tips for Clean React TypeScript Code you Must Know](https://app.daily.dev/posts/UhLxVOj2i?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
