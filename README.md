@@ -117,11 +117,11 @@ I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [JavaScript Geolocation API Tutorial – How to Get a User&#39;s Location in JS](https://app.daily.dev/posts/8cAOMS2j_?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Detect When Users Switch Tabs using JavaScript](https://app.daily.dev/posts/Hvz_LgFId?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [What is the difference between async and defer in script loading?](https://app.daily.dev/posts/tcnXHLXJl?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://app.daily.dev/posts/7QI2rqwnm?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Build a blog with Next.JS, React.JS, TypeScript, Sanity.io,TailwindCSS](https://app.daily.dev/posts/sWC8jauck?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [A Complete Guide to Custom Properties](https://app.daily.dev/posts/MP_TVRjmW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify](https://app.daily.dev/posts/sNKzJcy5X?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Javascript: Overcoming tutorial hell, my story](https://app.daily.dev/posts/KR02pT2HB?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
