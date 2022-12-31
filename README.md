@@ -93,11 +93,12 @@ and a lot more related tools & packages...
 ***
 ### My Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a> | Dec 21, 2021 <br> In CSS, the numeric value &lt;length&gt; represents the size of the elements. 💻💻
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672047675456/c346735c-dac6-4929-839a-88f83d298951.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series">Project Euler: About the Solution Series</a> | Dec 31, 2022 <br> In this series, I will be discussing the solution to the 'Project Euler' Problems.
+The 'Project Eule... </td></tr></table>
+<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a> | Dec 21, 2021 <br> In CSS, the numeric value &lt;length&gt; represents the size of the elements. 💻💻
 This CSS data typ... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript">Build a Pomodoro Timer using HTML, CSS and Javascript</a> | Dec 11, 2021 <br> In this tutorial, we are coding a Pomodoro timer. 
 I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
-<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626434631673/TrNYekPEY.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/weird-behaviour-in-js-explained-mathmin-greater-mathmax">Weird Behaviour in JS Explained: Math.min() > Math.max()</a> | Jul 16, 2021 <br> Javascript is indeed a great language. But at times it is tricky, funny, behaves weirdly and, what-n... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
