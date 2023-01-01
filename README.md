@@ -93,12 +93,12 @@ and a lot more related tools & packages...
 ***
 ### My Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672047675456/c346735c-dac6-4929-839a-88f83d298951.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series">Project Euler: About the Solution Series</a> | Dec 31, 2022 <br> In this series, I will be discussing the solution to the 'Project Euler' Problems.
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-1-multiples-of-3-or-5"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672051081725/c9d4655a-c636-449a-b758-3daff25c27e6.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-1-multiples-of-3-or-5">Project Euler: #1 - Multiples of 3 or 5</a> | Jan 1, 2023 <br> Problem
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and... </td></tr></table>
+<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672047675456/c346735c-dac6-4929-839a-88f83d298951.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-about-the-solution-series">Project Euler: About the Solution Series</a> | Dec 31, 2022 <br> In this series, I will be discussing the solution to the 'Project Euler' Problems.
 The 'Project Eule... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640069934556/ilwDKdc_4.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/css-units-explained-em-vs-rem">CSS Units Explained: EM Vs REM</a> | Dec 21, 2021 <br> In CSS, the numeric value &lt;length&gt; represents the size of the elements. 💻💻
 This CSS data typ... </td></tr></table>
-<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639143687815/ErxkGmhSn.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/build-a-pomodoro-timer-using-html-css-and-javascript">Build a Pomodoro Timer using HTML, CSS and Javascript</a> | Dec 11, 2021 <br> In this tutorial, we are coding a Pomodoro timer. 
-I Came across Advent Of CSS and Advent of JS chal... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
