@@ -93,13 +93,14 @@ and a lot more related tools & packages...
 ***
 ### My Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-9-special-pythagorean-triplet"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672590928270/3be48535-df2f-4be9-8da2-2e4ca9e4bd54.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-9-special-pythagorean-triplet">Project Euler: #9 - Special Pythagorean triplet</a> | Jan 9, 2023 <br> Problem
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-10-summation-of-primes"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672649253893/8ac4e53e-728e-4723-958a-58a336afb52a.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-10-summation-of-primes">Project Euler: #10 - Summation of primes</a> | Jan 10, 2023 <br> Problem
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+Find the sum of all the primes below t... </td></tr></table>
+<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-9-special-pythagorean-triplet"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672590928270/3be48535-df2f-4be9-8da2-2e4ca9e4bd54.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-9-special-pythagorean-triplet">Project Euler: #9 - Special Pythagorean triplet</a> | Jan 9, 2023 <br> Problem
 A Pythagorean triplet is a set of three natural numbers, a &lt; b &lt; c for which,
 $a^2 + ... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-8-largest-product-in-a-series"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672590810067/9dd45f31-30f9-4a72-a4b2-45034a938f77.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-8-largest-product-in-a-series">Project Euler: #8 - Largest product in a series</a> | Jan 8, 2023 <br> Problem
 The four adjacent digits in the 1000-digit number that has the greatest product is 9  9  8  ... </td></tr></table>
-<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-7-10001st-prime"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672474604831/6c0a3b2f-9fd9-40df-ad90-f2758b6c74e1.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-7-10001st-prime">Project Euler: #7 - 10001st prime</a> | Jan 7, 2023 <br> Problem
-By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prim... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
