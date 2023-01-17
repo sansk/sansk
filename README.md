@@ -93,14 +93,14 @@ and a lot more related tools & packages...
 ***
 ### My Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673582949879/21696d61-172a-4309-9dea-5f8f0a309538.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths">Project Euler: #15 - Lattice paths</a> | Jan 16, 2023 <br> Problem
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673623445378/4112a506-a18e-4a9b-a0b4-39f6452e75df.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum">Project Euler: #16 - Power digit sum</a> | Jan 17, 2023 <br> Problem
+215 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+What is the sum of the digi... </td></tr></table>
+<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673582949879/21696d61-172a-4309-9dea-5f8f0a309538.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths">Project Euler: #15 - Lattice paths</a> | Jan 16, 2023 <br> Problem
 Starting in the top left corner of a 2*2 grid, and only being able to move to the right and ... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-14-longest-collatz-sequence"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673429482426/d23636ca-5b04-4a14-aaee-9e8f5869bc61.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-14-longest-collatz-sequence">Project Euler: #14 - Longest Collatz sequence</a> | Jan 15, 2023 <br> Problem
 The following iterative sequence is defined for the set of positive integers:
 n  n/2 (n is e... </td></tr></table>
-<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-13-large-sum"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673424272777/3a5dec5c-a46f-4284-aa90-4137cd339bf8.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-13-large-sum">Project Euler: #13 - Large sum</a> | Jan 14, 2023 <br> Problem
-Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-3710... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
