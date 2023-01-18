@@ -93,14 +93,13 @@ and a lot more related tools & packages...
 ***
 ### My Latest Blog Posts 👇
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673623445378/4112a506-a18e-4a9b-a0b4-39f6452e75df.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum">Project Euler: #16 - Power digit sum</a> | Jan 17, 2023 <br> Problem
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-17-number-letter-counts"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673689608316/cceabf2e-5989-43db-acb0-cc0e9cf9860c.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-17-number-letter-counts">Project Euler: #17 - Number letter counts</a> | Jan 18, 2023 <br> Problem
+If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are ... </td></tr></table>
+<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673623445378/4112a506-a18e-4a9b-a0b4-39f6452e75df.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-16-power-digit-sum">Project Euler: #16 - Power digit sum</a> | Jan 17, 2023 <br> Problem
 215 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
 What is the sum of the digi... </td></tr></table>
 <table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673582949879/21696d61-172a-4309-9dea-5f8f0a309538.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-15-lattice-paths">Project Euler: #15 - Lattice paths</a> | Jan 16, 2023 <br> Problem
 Starting in the top left corner of a 2*2 grid, and only being able to move to the right and ... </td></tr></table>
-<table><tr><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-14-longest-collatz-sequence"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673429482426/d23636ca-5b04-4a14-aaee-9e8f5869bc61.png"></a></td><td><a href="https://theintrovertcoder.hashnode.dev/project-euler-14-longest-collatz-sequence">Project Euler: #14 - Longest Collatz sequence</a> | Jan 15, 2023 <br> Problem
-The following iterative sequence is defined for the set of positive integers:
-n  n/2 (n is e... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
