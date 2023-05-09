@@ -119,11 +119,11 @@ Starting in the top left corner of a 2*2 grid, and only being able to move to th
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Technical Blogging Basics – How to Write Articles as a Developer](https://app.daily.dev/posts/A7-XQo6UPC?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [JavaScript Geolocation API Tutorial – How to Get a User&#39;s Location in JS](https://app.daily.dev/posts/8cAOMS2j_?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Detect When Users Switch Tabs using JavaScript](https://app.daily.dev/posts/Hvz_LgFId?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [What is the difference between async and defer in script loading?](https://app.daily.dev/posts/tcnXHLXJl?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://app.daily.dev/posts/7QI2rqwnm?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Build a blog with Next.JS, React.JS, TypeScript, Sanity.io,TailwindCSS](https://app.daily.dev/posts/sWC8jauck?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
