@@ -115,11 +115,11 @@ and a lot more related tools & packages...
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Why the with&lpar;&rpar; method of JavaScript Array is a gem?](https://app.daily.dev/posts/OGIsX6fyi?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [How to Get Started With Cybersecurity](https://app.daily.dev/posts/AMaFMh6Vh?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Technical Blogging Basics – How to Write Articles as a Developer](https://app.daily.dev/posts/A7-XQo6UPC?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [JavaScript Geolocation API Tutorial – How to Get a User&#39;s Location in JS](https://app.daily.dev/posts/8cAOMS2j_?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Detect When Users Switch Tabs using JavaScript](https://app.daily.dev/posts/Hvz_LgFId?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Deploying a React Application to Production: A Comprehensive Guide](https://app.daily.dev/posts/9koOguy1g?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://app.daily.dev/posts/TfzV6TuSa?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://app.daily.dev/posts/3KFtK9Xzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Advanced Kali Linux Commands for Hacking and Penetration Testing](https://app.daily.dev/posts/UgnMOGhSL?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Get Screen Size in Pure CSS](https://app.daily.dev/posts/VSd3G1WbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
