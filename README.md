@@ -115,11 +115,11 @@ and a lot more related tools & packages...
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Javascript: Event loop visualizer for learners](https://app.daily.dev/posts/SqTP5XfaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Deploying a React Application to Production: A Comprehensive Guide](https://app.daily.dev/posts/9koOguy1g?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs](https://app.daily.dev/posts/TfzV6TuSa?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://app.daily.dev/posts/3KFtK9Xzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Advanced Kali Linux Commands for Hacking and Penetration Testing](https://app.daily.dev/posts/UgnMOGhSL?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Get Screen Size in Pure CSS](https://app.daily.dev/posts/VSd3G1WbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
