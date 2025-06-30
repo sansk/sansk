@@ -115,11 +115,11 @@ and a lot more related tools & packages...
 ### Interesting Articles from my daily.dev Feed
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Build a Production-Ready DevOps Pipeline with Free Tools](https://app.daily.dev/posts/1Csk1l3Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [150 Awesome Portfolios](https://app.daily.dev/posts/I8NQt3wiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Understanding Higher-Order Components &lpar;HOCs&rpar; in React ⚡️](https://app.daily.dev/posts/VWWZd0nRz?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [⚡🚀 ReactJS, TypeScript, Vite with Redux and TanStack &lpar;React Query&rpar; In Practice ⚛️](https://app.daily.dev/posts/gllcDvQCT?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Javascript: Event loop visualizer for learners](https://app.daily.dev/posts/SqTP5XfaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Deploying a React Application to Production: A Comprehensive Guide](https://app.daily.dev/posts/9koOguy1g?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 <!-- daily.dev BOOKMARKS:END -->
 ***
 
