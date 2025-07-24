@@ -19,6 +19,9 @@ I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 ### Future Goals 🎯
 - 🖥 I want to dig in to the cyber seurity world!.
 ***
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 <!--
 ### I am Obsessed with
 
@@ -90,8 +93,6 @@ and a lot more related tools & packages...
 <table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-16-power-digit-sum"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-16-power-digit-sum">Project Euler: #16 - Power digit sum</a> | Jan 17, 2023 <br> Project Euler: #16 - Power digit sum solution in Javascript.... </td></tr></table>
 <table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-15-lattice-paths"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-15-lattice-paths">Project Euler: #15 - Lattice paths</a> | Jan 16, 2023 <br> Project Euler: #15 - Lattice paths solution in Javascript... </td></tr></table>
 <!-- BLOG-POST-LIST:END -->
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
 
 ***
 ### My Abode - Let's Connect 🤝
