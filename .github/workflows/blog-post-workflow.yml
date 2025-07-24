@@ -18,7 +18,7 @@ jobs:
         with:
           comment_tag_name: "The Introvert Coder"
           feed_list: "https://blog.theintrovertcoder.in/rss.xml"
-          max_post_count: 3
+          max_post_count: 5
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
           disable_html_encoding: true
