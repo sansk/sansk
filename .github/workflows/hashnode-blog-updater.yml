@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'sangyk' # Hashnode Username
+          USERNAME: '@sangyk' # Hashnode Username
           BLOG_URL: 'https://blog.theintrovertcoder.in/' # Blog URL
           COUNT: 6 # MAX Visisble
           STYLE: "blog-grid-3"
