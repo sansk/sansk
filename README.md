@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 # <Hello, World! 👋 />
 
-## I am Sangy K
+## I am SK
 
 I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 
