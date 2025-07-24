@@ -14,7 +14,7 @@ jobs:
       - name: Pull in Hashnode posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://theintrovertcoder.hashnode.dev/rss.xml"
+          feed_list: "https://blog.theintrovertcoder.in/rss.xml"
           max_post_count: 3
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
