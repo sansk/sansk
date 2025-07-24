@@ -1,33 +1,25 @@
 <!-- markdownlint-disable-next-line -->
-![Header](./Images/Sangy.gif)
-
 # <Hello, World! 👋 />
 
 ## I am Sangy K
 
-I am Full-Stack Developer but my Job title says, Solution Engineer.
+I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 
-## Weird & Fun Facts About ME 😉
+## About ME 😉
 
-- 👩‍💻 An **Introverted Person**
-- ✍ Create Content on topics I love
-- 💛 The most IMPORTANT fact, **I'm in 💖 with Javascript**
+- 👩‍💻 An **Introverted Person** trying to be an Extrovert.
+- 💛 I 💖 Javascript
+- ✍ I Blog about Javascript
 - 💬 Ask me about Javascript
-- 🔭 I’m currently **exploring Twitter APIs**
-- 👯 I’m looking to collaborate on **projects involving Twitter APIs**
-
-More about me @ [My Story Page](https://theintrovertcoder.hashnode.dev/about)
+- 🔭 I’m currently trying my hands on OS projects
 ***
-
 ### Currently on my plate - apart from Work 🤨
-
-- 🤿 Diving deep into **React**
-- 🗒 Start interacting more and connect with more people
+- 🤿 Building my skills in Python
 
 ### Future Goals 🎯
-
-- 🖥 **NextJS** is the next destination.
+- 🖥 I want to dig in to the cyber seurity world!.
 ***
+<!--
 ### I am Obsessed with
 
 <p align="left">
@@ -91,6 +83,7 @@ More about me @ [My Story Page](https://theintrovertcoder.hashnode.dev/about)
 and a lot more related tools & packages...
 
 ***
+-->
 ### My Latest Blog Posts 👇
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts">Project Euler: #17 - Number letter counts</a> | Jan 18, 2023 <br> Project Euler: #17 - Number letter counts solution in Javascript... </td></tr></table>
@@ -103,7 +96,7 @@ and a lot more related tools & packages...
 ***
 ### My Abode - Let's Connect 🤝
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://theintrovertcoder.hashnode.dev/)
+[![My Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=homepage&logoColor=white)](https://theintrovertcoder.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/sangyk_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sangyk_dev)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/skay)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sansk)
@@ -112,23 +105,25 @@ and a lot more related tools & packages...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-kumarasamy/)
 
 ***
+<!--
 ### Interesting Articles from my daily.dev Feed
-
+-->
 <!-- daily.dev BOOKMARKS:START -->
+<!--
 - [How to Build a Production-Ready DevOps Pipeline with Free Tools](https://app.daily.dev/posts/1Csk1l3Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [150 Awesome Portfolios](https://app.daily.dev/posts/I8NQt3wiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [Understanding Higher-Order Components &lpar;HOCs&rpar; in React ⚡️](https://app.daily.dev/posts/VWWZd0nRz?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
 - [⚡🚀 ReactJS, TypeScript, Vite with Redux and TanStack &lpar;React Query&rpar; In Practice ⚛️](https://app.daily.dev/posts/gllcDvQCT?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
-- [Javascript: Event loop visualizer for learners](https://app.daily.dev/posts/SqTP5XfaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E)
+- [Javascript: Event loop visualizer for learners](https://app.daily.dev/posts/SqTP5XfaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=FJ5O6X07E) 
+-->
 <!-- daily.dev BOOKMARKS:END -->
-***
-
+<!--
 ### My GitHub Stats 📈 I Know I need to Improve here 🎯
 [![Sangy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansk&hide=stars&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
    *Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this wonderful GitHub-Readme-Stats Project.*
 ***
-
+-->
 <!--
 **sansk/sansk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
