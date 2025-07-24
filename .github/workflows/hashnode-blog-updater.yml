@@ -1,0 +1,24 @@
+name: "📚My Hashnode Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'sangyk' # Hashnode Username
+          BLOG_URL: 'https://blog.theintrovertcoder.in/' # Blog URL
+          COUNT: 6 # MAX Visisble
+          STYLE: "blog-grid-3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
