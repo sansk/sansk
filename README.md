@@ -88,7 +88,7 @@ and a lot more related tools & packages...
 ***
 -->
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts">Project Euler: #17 - Number letter counts</a> | Jan 18, 2023 <br> Project Euler: #17 - Number letter counts solution in Javascript... </td></tr></table>
+<!-- BLOG-POST-LIST:START -->
 <table>
     <tr>
         <td><a
