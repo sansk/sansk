@@ -87,7 +87,6 @@ and a lot more related tools & packages...
 
 ***
 -->
-### My Latest Blog Posts 👇
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-17-number-letter-counts">Project Euler: #17 - Number letter counts</a> | Jan 18, 2023 <br> Project Euler: #17 - Number letter counts solution in Javascript... </td></tr></table>
 <table><tr><td><a href="https://blog.theintrovertcoder.in/project-euler-16-power-digit-sum"><img width="140px" src=""></a></td><td><a href="https://blog.theintrovertcoder.in/project-euler-16-power-digit-sum">Project Euler: #16 - Power digit sum</a> | Jan 17, 2023 <br> Project Euler: #16 - Power digit sum solution in Javascript.... </td></tr></table>
