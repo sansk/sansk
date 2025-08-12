@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post workflow - GK
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in my Blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
           comment_tag_name: "The Introvert Coder"
           feed_list: "https://blog.theintrovertcoder.in/rss.xml"
