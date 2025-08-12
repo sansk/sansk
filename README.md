@@ -20,8 +20,8 @@ I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 - 🖥 I want to dig in to the cyber seurity world!.
 ***
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 ### I am Obsessed with
 
