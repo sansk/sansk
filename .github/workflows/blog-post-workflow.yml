@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
           comment_tag_name: "The Introvert Coder"
-          feed_list: "https://blog.theintrovertcoder.in/rss.xml"
+          feed_list: "https://theintrovertcoder.hashnode.dev/rss.xml"
           max_post_count: 5
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
