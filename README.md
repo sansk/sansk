@@ -12,6 +12,7 @@ I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 - ✍ I Blog about Javascript
 - 💬 Ask me about Javascript
 - 🔭 I’m currently trying my hands on OS projects
+<!--
 ***
 ### Currently on my plate - apart from Work 🤨
 - 🤿 Building my skills in Python
@@ -19,7 +20,8 @@ I am Full-Stacker - A Javascript Enthusiast and a Pythonista
 ### Future Goals 🎯
 - 🖥 I want to dig in to the cyber seurity world!.
 ***
-## My Latest Blog Posts 👇
+
+## My Latest Blog Posts 👇 -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!--
@@ -89,6 +91,7 @@ and a lot more related tools & packages...
 -->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 <table>
     <tr>
         <td><a
@@ -124,7 +127,7 @@ and a lot more related tools & packages...
                 href="https://blog.theintrovertcoder.in/essential-string-methods-in-javascript-trimming-searching-combining-text-and-many-more">Essential
                 String Methods in Javascript: Trimming, Searching, Combining Text and Many more</a> | Jul 18, 2025 </td>
     </tr>
-</table>
+</table> -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SHOWCASE-START -->
