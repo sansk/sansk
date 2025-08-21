@@ -1,0 +1,34 @@
+name: Update README with Featured Repositories
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily at 6 AM UTC
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with Repository Display
+        uses: sansk/github-repo-display@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          topic: 'showcase'
+          format: 'card'
+          title: '🌟 Featured Projects'
+          max_repos: 6
+          show_description: true
+          show_language: true
+          show_stars: true
+          show_forks: true
+          show_topics: true
+          commit_message: 'docs: update featured projects showcase'
